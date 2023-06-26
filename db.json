@@ -29,10 +29,10 @@
       "numDormitorios": "4",
       "ubication": "Av. Los Alamos 104, Lima",
       "price": 200000,
-      "cochera": "3 carros",
+      "cochera": "1 carro",
       "sala": "Sala pequeña",
       "cocina": "Cocina mediana",
-      "imageUrl": "https://decoraideas.com/wp-content/uploads/2019/08/04-4-768x536.jpg"
+      "imageUrl": "https://img10.naventcdn.com/avisos/111/00/63/33/05/45/720x532/300811390.jpg"
     },
     {
       "id": 2,
@@ -43,7 +43,7 @@
       "numDormitorios": "4",
       "ubication": "Av. Los Alamos 205",
       "price": 100000,
-      "cochera": "1 carros",
+      "cochera": "2 carros",
       "sala": "Sala grande",
       "cocina": "Cocina pequeña",
       "imageUrl": "https://static.wixstatic.com/media/63b041_e98452ee67e3450eb6936162bd357726~mv2_d_8333_5729_s_4_2.jpg/v1/fill/w_1000,h_688,al_c,q_85,usm_0.66_1.00_0.01/63b041_e98452ee67e3450eb6936162bd357726~mv2_d_8333_5729_s_4_2.jpg"
@@ -57,24 +57,24 @@
       "numDormitorios": "3",
       "ubication": "Lince, Lima",
       "price": 104500,
-      "cochera": "1 carros",
+      "cochera": "2 carros",
       "sala": "Sala enorme",
       "cocina": "Cocina grande",
       "imageUrl": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg"
     },
     {
       "id": 4,
-      "name": "Casa Moderna",
-      "dimension": "200,00",
+      "name": "Departamento grande",
+      "dimension": "300,00",
       "numero": "407",
       "type": "Casa",
       "numDormitorios": "3",
       "ubication": "Av. La Marina , San Isidro",
       "price": 210000,
-      "cochera": "1 carros",
+      "cochera": "1 carro",
       "sala": "Sala enorme",
       "cocina": "Cocina grande",
-      "imageUrl": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg"
+      "imageUrl": "https://www.losportalesdepas.com.pe/wp-content/uploads/fachada_GPL-scaled.jpeg"
     },
     {
       "id": 5,
@@ -85,38 +85,38 @@
       "numDormitorios": "3",
       "ubication": "Lima, Lima",
       "price": 190000,
-      "cochera": "1 carros",
+      "cochera": "2 carros",
       "sala": "Sala enorme",
       "cocina": "Cocina grande",
-      "imageUrl": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg"
+      "imageUrl": "https://theressa.net/images/services/5b714fec44142remodelaci%C3%B3n-casas.jpg"
     },
     {
       "id": 6,
-      "name": "Casa Moderna",
+      "name": "Departamento",
       "dimension": "200,00",
       "numero": "407",
       "type": "Casa",
       "numDormitorios": "3",
       "ubication": "Lima, Lima",
       "price": 190000,
-      "cochera": "1 carros",
+      "cochera": "1 carro",
       "sala": "Sala enorme",
       "cocina": "Cocina grande",
-      "imageUrl": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg"
+      "imageUrl": "https://img10.naventcdn.com/avisos/111/00/63/60/32/17/720x532/322376315.jpg"
     },
     {
       "id": 5,
-      "name": "Casa Moderna",
+      "name": "Casa Playa",
       "dimension": "200,00",
       "numero": "407",
       "type": "Casa",
       "numDormitorios": "3",
       "ubication": "Lima, Lima",
       "price": 190000,
-      "cochera": "1 carros",
+      "cochera": "1 carro",
       "sala": "Sala enorme",
       "cocina": "Cocina grande",
-      "imageUrl": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg"
+      "imageUrl": "https://theressa.net/images/projects/5d7d1056749f0-VICH-01-1.jpg"
     },
     {
       "id": 6,
@@ -127,14 +127,14 @@
       "numDormitorios": "3",
       "ubication": "Av. JavierPrado, Lima",
       "price": 196000,
-      "cochera": "1 carros",
+      "cochera": "3 carros",
       "sala": "Sala enorme",
       "cocina": "Cocina grande",
-      "imageUrl": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg"
+      "imageUrl": "https://img10.naventcdn.com/avisos/11/00/57/37/33/42/720x532/293317290.jpg"
     },
     {
       "id": 7,
-      "name": "Casa Moderna",
+      "name": "Casa Playa",
       "dimension": "200,00",
       "numero": "407",
       "type": "Casa",
@@ -144,7 +144,7 @@
       "cochera": "2 carros",
       "sala": "Sala enorme",
       "cocina": "Cocina grande",
-      "imageUrl": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg"
+      "imageUrl": "https://i.ytimg.com/vi/wIaVxh5b25g/maxresdefault.jpg"
     }
   ]
 }
